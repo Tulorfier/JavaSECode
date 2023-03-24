@@ -18,7 +18,7 @@ class IfElseTest1 {
 	public static void main(String[] args) {
 		
 		int score = 61;
-
+		System.out.println();
 		//·½Ê½1£º
 		/*
 		if(score == 100){
